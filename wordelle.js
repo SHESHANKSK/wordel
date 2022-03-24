@@ -13,8 +13,8 @@ var guessList = ["aahed", "aalii", "aargh", "aarti", "abaca", "abaci", "abacs", 
 
 guessList = guessList.concat(wordList);
 
-//var word = wordList[Math.floor(Math.random()*wordList.length)].toUpperCase();
-var word = 'RANJU';
+var word = wordList[Math.floor(Math.random()*wordList.length)].toUpperCase();
+//var word = 'RANJU';
 //console.log(word);
 
 window.onload = function(){
