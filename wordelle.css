@@ -1,6 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
+
 body {
-  font-family: "Courier New", Courier, monospace;
+  font-family: 'Montserrat', sans-serif;
   text-align: center;
+  background-color: #333333;
+  color: #c9b458;
 }
 
 hr {
@@ -30,7 +34,7 @@ hr {
   margin: 2.5px;
 
   /* Text */
-  color: black;
+  color: #c9b458;
   font-size: 36px;
   font-weight: bold;
   display: flex;
@@ -51,7 +55,7 @@ hr {
 }
 
 .absent {
-  background-color: #787c7e;
+  background-color: #F24949;
   color: white;
   border-color: white;
 }
